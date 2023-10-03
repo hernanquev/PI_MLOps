@@ -65,7 +65,7 @@ def sentiment_analysis(year: int):
     return {'Negative': int(negative),'Neutral': int(neutral),'Positive': int(positive)}
 
 @app.get("/recommend_games/{product_id}")
-def recomendacion_juego(product_id):
+def recomendacion_juego(product_id: int):
 
     games_data['combined_features'] = games_data['genres'] + ' ' + games_data['tags']
 
