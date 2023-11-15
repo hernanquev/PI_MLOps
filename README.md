@@ -1,3 +1,5 @@
+
+![Linkedin Henry STUDENTS-09](https://github.com/hernanquev/PI_MLOps/assets/133261827/12fb7464-65a1-4a49-9542-d3d1a791ff96)
 # <h1 align=center> **PROYECTO INDIVIDUAL** </h1>
 # <h1 align=center>**`Machine Learning Operations (MLOps)`**</h1>
 <p align="center">
@@ -50,3 +52,6 @@ Estas acciones de transformación de datos fueron esenciales para preparar el co
 
 + def **recomendacion_juego( *`id de producto`* )**:
     Ingresando el id de producto, deberíamos recibir una lista con 5 juegos recomendados similares al ingresado.
+
+  ### Contacto: https://www.linkedin.com/in/hernanquevedo/
+  ### Email: hernanquev@gmail.com
